@@ -2,10 +2,30 @@
 A github to promote grants for people working on open webAI projects
 
 
+# Short Summary
+
+## Subject: Closing the "Capital-Incentive Gap" for Sovereign Edge AI
+
+## The Issue: We are facing a "tragedy of the commons" in AI. While Cloud AI thrives on monthly subscriptions and NDA-shielded research, the technologies that offer the most public good—WebAI, EdgeAI, and TinyML—lack the private capital to attract and retain elite talent. We are drifting away from the "Public Utility" research model of the early 1900s toward a "Corporate Enclosure" model that treats intelligence as a high-cost rental.
+
+## The Solution: I propose that Google leads a shift toward Sovereign AI Infrastructure Grants. By funding proven, independent developers to maintain the "open-source plumbing" (WebAI/TinyML/LegalAI) as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
+
+
+.
+
+
+.
+
+
+
+
+
+
+
 # open-webai: Bridging the Capital-Incentive Gap
 
 ## Executive Summary
-The democratization of AI through **WebAI**, **EdgeAI**, and **TinyML** is currently stalled by a systemic funding imbalance. While these fields provide the only viable path for millions of small businesses to leverage AI without restrictive monthly cloud fees, they lack the "rent-seeking" revenue models required to attract elite R&D talent. 
+The democratization of AI through **WebAI**, **EdgeAI** is currently stalled by a systemic funding imbalance. While these fields provide the only viable path for millions of small businesses to leverage AI without restrictive monthly cloud fees, they lack the "rent-seeking" revenue models required to attract elite R&D talent. 
 
 This proposal calls for a shift in how Google and the broader tech community support "Public Good" AI—moving from short-term product grants to **long-term infrastructure fellowships** for proven independent developers.
 
