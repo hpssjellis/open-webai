@@ -16,7 +16,7 @@ By funding proven, independent developers to maintain the "open-source plumbing"
 
 ## The WebAI Wednesday Community: The Grassroots Accelerator
 
-Our monthly volunteer-led meetup serves as the engine for this proposal. We act as a "Grant Sherpa" for the developer community, vetting talent and aligning technical innovation with "Public Good" funding.
+Our monthly volunteer-led meetup serves as the engine for this proposal aligning technical innovation with "Public Good" funding. Now there is a reason to join our group!
 
 
 
