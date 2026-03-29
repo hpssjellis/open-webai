@@ -82,7 +82,7 @@ If we do not fund the "plumbing" of the web, the future of AI will be a series o
 
 ## 🚀 Resources & Funding for Sovereign AI
 
-Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** group acts as a bridge for developers—we help identify which grants fit your project (WebAI, TinyML, LegalAI) and provide peer-review for applications to increase your chances of success.
+Navigating the grant landscape can be a full-time job and most web Developers do not have that kind of time to put into applying for a grant that will probably be turned down. 
 
 ### **Active 2026 Funding Rounds**
 
@@ -107,4 +107,8 @@ Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** g
 ### **Where to start**
 
 1. Join us on **WebAI Wednesday** (Check the [Discussions](https://discord.com/channels/654562858780196864/1347216957790752790) tab for the next link).
+2. Or the actual Google Meet https://meet.google.com/igj-kbic-taa
+3. QR Code to the Google meet typically last Wed of each month around 9pm ET.
+ <img width="398" height="394" alt="image" src="https://github.com/user-attachments/assets/455c33fc-aadd-47a3-9b4b-60dbf27eae41" />
+
 
