@@ -98,7 +98,6 @@ Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** g
 | **Sloan Foundation** | Exploratory grants for AI in Science and Open Source Scientific Software. | Ongoing | [Apply here](https://sloan.org/grants/apply) |
 
 ### **Infrastructure & Maintenance Support**
-* **[Tidelift](https://tidelift.com/):** A platform that pays maintainers to ensure their open-source packages meet enterprise security standards.
 * **[GitHub Sponsors](https://github.com/sponsors):** Enable direct recurring support from the community for your individual work.
 * **[Open Collective](https://opencollective.com/):** For larger group projects needing transparent financial management and fiscal sponsorship.
 
