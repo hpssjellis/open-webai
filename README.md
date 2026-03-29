@@ -86,8 +86,11 @@ Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** g
 
 ### **Active 2026 Funding Rounds**
 
+
+
 | Opportunity | Focus Area | Deadline | Link |
 | :--- | :--- | :--- | :--- |
+| **Google.org:| Google.org main entry point | **Continues** | [Apply here](https://www.google.org/impact-challenges/) |
 | **Google.org: AI for Science** | $30M fund for Health and Climate research using AI. Open-source mandate. | **April 17, 2026** | [Apply here](https://google.org/impact-challenges/ai-science) |
 | **Google.org: AI for Gov** | Grants up to $3M for solving public service challenges with data-driven AI. | **April 3, 2026** | [Apply here](https://google.org/impact-challenges/ai-government-innovation) |
 | **Google Summer of Code** | Paid contributor projects for students and beginners in open source. | **April 2, 2026** | [Apply here](https://summerofcode.withgoogle.com/) |
