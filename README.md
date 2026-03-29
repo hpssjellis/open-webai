@@ -75,3 +75,33 @@ Google should focus its Edge AI grants on these 12 critical "Sovereign" areas:
 
 ## 4. Conclusion
 If we do not fund the "plumbing" of the web, the future of AI will be a series of walled gardens. By pivoting toward infrastructure grants, Google can lead a movement where the "talent" is paid to build the highway, not just the toll booth. This ensures that the next generation of small businesses can leverage AI to grow, compete, and profit globally without a "cloud tax."
+
+
+
+---
+
+## 🚀 Resources & Funding for Sovereign AI
+
+Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** group acts as a bridge for developers—we help identify which grants fit your project (WebAI, TinyML, LegalAI) and provide peer-review for applications to increase your chances of success.
+
+### **Active 2026 Funding Rounds**
+
+| Opportunity | Focus Area | Deadline | Link |
+| :--- | :--- | :--- | :--- |
+| **NLnet: NGI Zero Discovery** | Independent researchers building a "Free & Open Internet." Grants €5k – €50k. | **April 1, 2026** | [Apply here](https://nlnet.nl/discovery/) |
+| **Google.org: AI for Science** | $30M fund for Health and Climate research using AI. Open-source mandate. | **April 17, 2026** | [Apply here](https://google.org/impact-challenges/ai-science) |
+| **Google.org: AI for Gov** | Grants up to $3M for solving public service challenges with data-driven AI. | **April 3, 2026** | [Apply here](https://google.org/impact-challenges/ai-government-innovation) |
+| **Google Summer of Code** | Paid contributor projects for students and beginners in open source. | **April 2, 2026** | [Apply here](https://summerofcode.withgoogle.com/) |
+| **Sovereign Tech Fund** | "Maintainer-in-Residence" fellowships for critical digital infrastructure. | Rolling / Calls | [Apply here](https://www.sovereigntechfund.de/) |
+| **Sloan Foundation** | Exploratory grants for AI in Science and Open Source Scientific Software. | Ongoing | [Apply here](https://sloan.org/grants/apply) |
+
+### **Infrastructure & Maintenance Support**
+* **[Tidelift](https://tidelift.com/):** A platform that pays maintainers to ensure their open-source packages meet enterprise security standards.
+* **[GitHub Sponsors](https://github.com/sponsors):** Enable direct recurring support from the community for your individual work.
+* **[Open Collective](https://opencollective.com/):** For larger group projects needing transparent financial management and fiscal sponsorship.
+
+### **Getting Help**
+If you are a developer with a "Vibe Coding" or TinyML project and need help with a grant proposal:
+1. Join us on **WebAI Wednesday** (Check the [Discussions](https://github.com/webmcu-ai/open-webai/discussions) tab for the next link).
+2. Post your draft in the `#grants-review` channel.
+3. We will help you align your technical goals with the funder's "Public Good" requirements.
