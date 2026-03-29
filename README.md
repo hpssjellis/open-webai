@@ -100,8 +100,7 @@ Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** g
 * **[GitHub Sponsors](https://github.com/sponsors):** Enable direct recurring support from the community for your individual work.
 * **[Open Collective](https://opencollective.com/):** For larger group projects needing transparent financial management and fiscal sponsorship.
 
-### **Getting Help**
-If you are a developer with a "Vibe Coding" or TinyML project and need help with a grant proposal:
-1. Join us on **WebAI Wednesday** (Check the [Discussions](https://github.com/webmcu-ai/open-webai/discussions) tab for the next link).
-2. Post your draft in the `#grants-review` channel.
-3. We will help you align your technical goals with the funder's "Public Good" requirements.
+### **Where to start**
+
+1. Join us on **WebAI Wednesday** (Check the [Discussions](https://discord.com/channels/654562858780196864/1347216957790752790) tab for the next link).
+
