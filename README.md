@@ -18,9 +18,7 @@ By funding proven, independent developers to maintain the "open-source plumbing"
 
 Our monthly volunteer-led meetup serves as the engine for this proposal. We act as a "Grant Sherpa" for the developer community, vetting talent and aligning technical innovation with "Public Good" funding.
 
-* **Grant Navigation:** Helping devs translate "vibe coding" into successful grant proposals.
-* **Advocacy:** Working with leads like Jason Mayes to prioritize **Maintenance Fellowships** for core infrastructure.
-* **Sovereignty:** Ensuring all funded tools follow the **CRAFT** standard—transparent, auditable, and local-first.
+
 
 .
 
