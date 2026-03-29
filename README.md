@@ -14,6 +14,14 @@ While Cloud AI thrives on monthly subscriptions and NDA-shielded research, the t
 By funding proven, independent developers to maintain the "open-source plumbing":WebAI, TinyML-IoT, EdgeAI, LegalAI, CraftAI, BiotechAI, AccessibilityAI, MedicalAI, AgritechAI, PredictiveMaintenanceAI, FinTechAI, DisasterAI, EnergyAI, ScienceAI as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
 
 
+## The WebAI Wednesday Community: The Grassroots Accelerator
+
+Our monthly volunteer-led meetup serves as the engine for this proposal. We act as a "Grant Sherpa" for the developer community, vetting talent and aligning technical innovation with "Public Good" funding.
+
+* **Grant Navigation:** Helping devs translate "vibe coding" into successful grant proposals.
+* **Advocacy:** Working with leads like Jason Mayes to prioritize **Maintenance Fellowships** for core infrastructure.
+* **Sovereignty:** Ensuring all funded tools follow the **CRAFT** standard—transparent, auditable, and local-first.
+
 .
 
 
