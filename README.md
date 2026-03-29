@@ -11,7 +11,7 @@ While Cloud AI thrives on monthly subscriptions and NDA-shielded research, the t
 
 ### The Solution: I propose that Google leads a shift toward Sovereign AI Infrastructure Grants. 
 
-By funding proven, independent developers to maintain the "open-source plumbing" (WebAI/TinyML/LegalAI) as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
+By funding proven, independent developers to maintain the "open-source plumbing" (WebAI/TinyML-IoT/EdgeAI/LegalAI/CraftAI/BioAI/MedAI/AgriAI/PredictiveMaintenanceAI/FinTechAI/DiasterAI/EnergyAI/ScienceAI) as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
 
 
 .
@@ -59,7 +59,7 @@ To prevent small businesses from becoming "digital sharecroppers," we must treat
 Google should focus its Edge AI grants on these 12 critical "Sovereign" areas:
 
 * **Legal & Audit AI:** Local, in-browser contract analysis and cryptographic signing (Docusign alternative).
-* **TinyML & IoT:** On-device intelligence for $5 microcontrollers in agriculture and manufacturing.
+* **TinyML & IoT:** On-device intelligence for $20 microcontrollers in agriculture and manufacturing.
 * **Education & "CRAFT":** Local-first tutoring tools that preserve student privacy and logic.
 * **Health & Bio-Metrics:** Privacy-first analysis of movement, recovery, and athletic performance.
 * **AgriTech:** Offline-ready pest and soil detection for rural farmers.
