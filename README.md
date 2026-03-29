@@ -11,7 +11,7 @@ While Cloud AI thrives on monthly subscriptions and NDA-shielded research, the t
 
 ### The Solution: I propose that Google leads a shift toward Sovereign AI Infrastructure Grants. 
 
-By funding proven, independent developers to maintain the "open-source plumbing" (WebAI/TinyML-IoT/EdgeAI/LegalAI/CraftAI/BioAI/MedAI/AgriAI/PredictiveMaintenanceAI/FinTechAI/DiasterAI/EnergyAI/ScienceAI) as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
+By funding proven, independent developers to maintain the "open-source plumbing":WebAI, TinyML-IoT, EdgeAI, LegalAI, CraftAI, BiotechAI, AccessibilityAI, MedicalAI, AgritechAI, PredictiveMaintenanceAI, FinTechAI, DisasterAI, EnergyAI, ScienceAI as a full-time career, Google can ensure the next generation of small businesses can profit from AI without a "cloud tax." Let's build the highway, not just the toll booth.
 
 
 .
