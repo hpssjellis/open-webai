@@ -96,6 +96,12 @@ Navigating the grant landscape can be a full-time job. Our **WebAI Wednesday** g
 | **Google Summer of Code** | Paid contributor projects for students and beginners in open source. | **April 2, 2026** | [Apply here](https://summerofcode.withgoogle.com/) |
 | **Sovereign Tech Fund** | "Maintainer-in-Residence" fellowships for critical digital infrastructure. | Rolling / Calls | [Apply here](https://www.sovereigntechfund.de/) |
 | **Sloan Foundation** | Exploratory grants for AI in Science and Open Source Scientific Software. | Ongoing | [Apply here](https://sloan.org/grants/apply) |
+| **European Summer of Code** | Paid stipends for open-source AI projects (Batch 2). | **April 30, 2026** | [Apply here](https://github.com/european-summer-of-code/esoc2026) |
+| **IEEE Emerging Tech Fund** | Grants (up to $15k) for TinyML-powered social impact (AgriTech/Health). | **Rolling 2026** | [Apply here](https://www.computer.org/communities/emerging-technology-fund) |
+| **NFRF: Disruptive Tech** | High-risk, high-reward research for global challenges (Intl. Initiative). | **June 9, 2026 (LOI)** | [Apply here](https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/international/2026/competition-concours-eng.aspx) |
+| **Sovereign Tech Fund** | Fellowships for maintainers of critical digital infrastructure and "open plumbing." | **Rolling / Calls** | [Apply here](https://www.sovereigntechfund.de/) |
+| **Google Summer of Code** | Standard contributor projects for mentoring organizations. | **March 31, 2026** | [Apply here](https://summerofcode.withgoogle.com/) |
+| **Sloan Foundation** | Ongoing grants for Open Source Scientific Software and AI transparency. | **Ongoing** | [Apply here](https://sloan.org/grants/apply) |
 
 ### **Infrastructure & Maintenance Support**
 * **[GitHub Sponsors](https://github.com/sponsors):** Enable direct recurring support from the community for your individual work.
