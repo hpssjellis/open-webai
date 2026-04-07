@@ -130,9 +130,51 @@ opensource html webAI developers will never make money from their product unless
 
 
 
- It’s a tough spot to be in—the "free" in Free and Open Source Software (FOSS) often feels like it applies to your bank account as much as the code. But you're right to look beyond paywalls. There is a massive movement in Public Interest Technology where the goal is to fund "digital commons"—tools that are as essential to society as parks or libraries.While it's true that the commercial market favors proprietary "black boxes," foundations and governments are increasingly desperate for open, web-based AI that isn't controlled by a single tech giant.Here are the most relevant grants and funding bodies for a webAI group in 2026.1. NLnet Foundation (NGI Zero Commons Fund)This is arguably the most important grant for web-based open-source developers. They focus on "reclaiming the public nature of the internet" and specifically list Open AI as a priority.Funding Amount: €5,000 to €50,000 (with potential for scaling).Focus: Projects that make the internet more open, trustworthy, and inclusive. They love "full-stack" web solutions.Deadline: The next major cutoff is June 1, 2026.Link: NLnet Propose a Project2. Mozilla Foundation (Democracy x AI & Fellowships)Mozilla is the patron saint of web-native open source. They run several cycles throughout the year aimed at "Trustworthy AI."Democracy x AI Cohort: Specifically for AI tools that strengthen democracy and transparency. While their 2026 cohort has started, they often offer follow-on funding of up to $250,000.Mozilla Fellows: For individuals or small groups building open infrastructure. Stipends range from $75,000 to $100,000.Link: Mozilla Foundation Grants & Fellowships3. The MacArthur Foundation (Humanity AI Initiative)In early 2026, a coalition of funders (including MacArthur) announced $500 million in new investments over five years for "People-Centered AI."Focus: Creative works, education, and "enhancing human creativity" through AI.Target: They prioritize civil society and non-profit groups, so if your "webAI group" is a registered non-profit (or can partner with one), this is a major pool.Link: MacArthur AI Opportunity4. Sovereign Tech Fund (STF)Based in Europe but funding global open-source infrastructure, the STF is for projects that provide the "plumbing" of the internet. If your webAI tools provide foundational libraries or HTML-based AI standards, this is for you.Funding: They provide significant long-term support for maintenance and security, not just new features.Focus: Resilience of the open-source ecosystem.Link: Sovereign Tech Fund - ApplyPro-Tip for WebAI ApplicationsFoundations rarely fund "just an app." To get the grant, your application should emphasize:Interoperability: How your HTML-based AI works across different browsers/devices without "lock-in."Privacy by Design: Since it's webAI, can it run locally (in-browser) so user data never leaves the machine? This is a huge selling point for grants.The "Digital Commons": Use the phrase "Public Interest Tech." Explain that your code is a "digital public good" that prevents a monopoly on AI.Alternative Revenue: The "Bounty" ModelIf grants feel too bureaucratic, look into Gitcoin or GitHub Accelerator. These platforms allow the community to fund development through "quadratic funding" (where small individual donations are matched by a large pool of corporate/foundation money).A Note on the "Paywall" Myth: Many successful open-source AI groups (like Hugging Face or LangChain) didn't start with a paywall; they started with a standard. If your group builds the standard way for people to run AI in HTML, the money will eventually follow in the form of enterprise support or cloud hosting—even if the code stays free forever.Does your group have a specific project (like an in-browser image generator or a privacy-focused LLM) that you’re looking to fund first? Finding a niche often makes these applications much easier.
+## Funding the Digital Commons: Grants for webAI Developers
 
+It’s a tough spot to be in—the "free" in Free and Open Source Software (FOSS) often feels like it applies to your bank account as much as the code. But you're right to look beyond paywalls. There is a massive movement in **Public Interest Technology** where the goal is to fund "digital commons"—tools that are as essential to society as parks or libraries.
 
+While it's true that the commercial market favors proprietary "black boxes," foundations and governments are increasingly desperate for open, web-based AI that isn't controlled by a single tech giant.
+
+---
+
+### 1. NLnet Foundation (NGI Zero Commons Fund)
+This is arguably the most important grant for web-based open-source developers. They focus on "reclaiming the public nature of the internet" and specifically list **Open AI** as a priority.
+* **Funding Amount:** €5,000 to €50,000 (with potential for scaling).
+* **Focus:** Projects that make the internet more open, trustworthy, and inclusive. They love "full-stack" web solutions.
+* **Deadline:** The next major cutoff is **June 1, 2026**.
+* **Link:** [NLnet Propose a Project](https://nlnet.nl/propose/)
+
+### 2. Mozilla Foundation (Democracy x AI & Fellowships)
+Mozilla is the patron saint of web-native open source. They run several cycles throughout the year aimed at "Trustworthy AI."
+* **Democracy x AI Cohort:** Specifically for AI tools that strengthen democracy and transparency. While their 2026 cohort has started, they often offer follow-on funding of up to **$250,000**.
+* **Mozilla Fellows:** For individuals or small groups building open infrastructure. Stipends range from **$75,000 to $100,000**.
+* **Link:** [Mozilla Foundation Grants & Fellowships](https://foundation.mozilla.org/en/fellowships/)
+
+### 3. The MacArthur Foundation (Humanity AI Initiative)
+In early 2026, a coalition of funders (including MacArthur) announced **$500 million** in new investments over five years for "People-Centered AI."
+* **Focus:** Creative works, education, and "enhancing human creativity" through AI.
+* **Target:** They prioritize civil society and non-profit groups, so if your "webAI group" is a registered non-profit (or can partner with one), this is a major pool.
+* **Link:** [MacArthur AI Opportunity](https://www.macfound.org/press/press-releases/10-million-to-advance-ai-by-and-for-people)
+
+### 4. Sovereign Tech Fund (STF)
+Based in Europe but funding global open-source infrastructure, the STF is for projects that provide the "plumbing" of the internet. If your webAI tools provide foundational libraries or HTML-based AI standards, this is for you.
+* **Funding:** They provide significant long-term support for maintenance and security, not just new features.
+* **Focus:** Resilience of the open-source ecosystem.
+* **Link:** [Sovereign Tech Fund - Apply](https://www.sovereigntechfund.de/en/applications)
+
+---
+
+### Pro-Tip for WebAI Applications
+Foundations rarely fund "just an app." To get the grant, your application should emphasize:
+1.  **Interoperability:** How your HTML-based AI works across different browsers/devices without "lock-in."
+2.  **Privacy by Design:** Since it's webAI, can it run locally (in-browser) so user data never leaves the machine? This is a huge selling point for grants.
+3.  **The "Digital Commons":** Use the phrase "Public Interest Tech." Explain that your code is a "digital public good" that prevents a monopoly on AI.
+
+### Alternative Revenue: The "Bounty" Model
+If grants feel too bureaucratic, look into **Gitcoin** or **GitHub Accelerator**. These platforms allow the community to fund development through "quadratic funding" (where small individual donations are matched by a large pool of corporate/foundation money).
+
+> **A Note on the "Paywall" Myth:** Many successful open-source AI groups (like Hugging Face or LangChain) didn't start with a paywall; they started with a **standard**. If your group builds the standard way for people to run AI in HTML, the money will eventually follow in the form of enterprise support or cloud hosting—even if the code stays free forever.
 
 
 
@@ -271,7 +313,40 @@ Examples:
 “AI tools that run locally in-browser”
 “Open alternatives to closed AI platforms”
 
+nt Application Links (Checked)
+1. AI Grant
+🔗 https://aigrant.org/
+Focus: Open-source AI, experimental tools, small teams
+Status: ✅ Active application form on site
+2. Grants for AI (Aggregator)
+🔗 https://grantsforai.com/
+Focus: Directory of multiple AI-related grants (government + private)
+Status: ✅ Active, browse + apply through listings
+3. Patina Foundation Grants
+🔗 https://patinafoundation.io/grants
+Focus: Sustainable / efficient AI systems
+Status: ✅ Application info available (may require proposal submission via contact)
+4. Open Source Endowment (Project Info)
+🔗 https://opensourcendowment.org/
+Focus: Long-term funding for open-source infrastructure
+Status: ✅ Active initiative (funding model evolving; not always direct application)
+5. Linux Foundation (AI / Open Source Funding Ecosystem)
+🔗 https://www.linuxfoundation.org/
+Focus: Open-source ecosystems, including AI initiatives
+Status: ✅ Active; funding typically via programs, partnerships, or project incubation
+⚠️ Important Reality Check
 
+Not all grants work like a simple “submit form → get money.”
+They fall into 3 categories:
+
+Direct application (easy):
+AI Grant
+Aggregators (you apply elsewhere):
+Grants for AI
+Ecosystem / relationship-based (harder but bigger):
+Linux Foundation
+Open Source Endowment
+Patina
 
 
 ## CoPilot
