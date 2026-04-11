@@ -77,6 +77,20 @@ Google should focus its Edge AI grants on these 12 critical "Sovereign" areas:
 * **Energy Management:** Local smart-grid optimization based on personal habits without cloud logging.
 * **Transparent Science:** Tools to locally verify research data, removing the "black box" of proprietary APIs.
 
+
+
+## For Canada
+
+| Opportunity | Focus Area | Deadline | Link |
+| :--- | :--- | :--- | :--- |
+| **Google.org** | Google's main philanthropic entry point for non-profits and social enterprises. | Continuous | [Apply here](https://www.google.org/) |
+| **NRC IRAP** | Financial support for technology innovation and R&D for SMEs. | Continuous | [Apply here](https://nrc.canada.ca/en/support-technology-innovation/nrc-irap) |
+| **SR&ED Tax Incentive** | Tax credits for expenditures on tech-based research and development. | Annual (Tax Filing) | [Apply here](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html) |
+| **Innovative Solutions Canada** | Funding for early-stage R&D and late-stage prototypes for government "challenges." | Varies by Challenge | [Apply here](https://www.ic.gc.ca/eic/site/101.nsf/eng/home) |
+| **CanExport Innovation** | Funding for R&D collaborations with foreign partners to reach global markets. | Continuous | [Apply here](https://www.tradecommissioner.gc.ca/funding-financement/canexport/innovation/index.aspx) |
+| **PacifiCan (BC Specific)** | Funding for tech adoption and business scaling in British Columbia. | Periodic Intakes | [Apply here](https://www.canada.ca/en/pacific-economic-development.html) |
+| **Business Benefits Finder** | Centralized tool to match specific tech projects with active federal/provincial grants. | Continuous | [Search here](https://innovation.ised-isde.canada.ca/iris/app/adventure/p/1/search) |
+| **Sustainable Development Tech (SDTC)** | Funding for "cleantech" and environmental technology projects. | Continuous | [Apply here](https://www.sdtc.ca/en/) |
 ---
 
 ## 4. Conclusion
