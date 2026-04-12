@@ -83,15 +83,16 @@ Google should focus its Edge AI grants on these 12 critical "Sovereign" areas:
 
 | Opportunity | Focus Area | Deadline | Link |
 | :--- | :--- | :--- | :--- |
-| **Google.org** | Google's main philanthropic entry point for non-profits and social enterprises. | Continuous | [Apply here](https://www.google.org/) |
-| **NRC IRAP** | Financial support for technology innovation and R&D for SMEs. | Continuous | [Apply here](https://nrc.canada.ca/en/support-technology-innovation/nrc-irap) |
-| **SR&ED Tax Incentive** | Tax credits for expenditures on tech-based research and development. | Annual (Tax Filing) | [Apply here](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html) |
+| **NRC IRAP** | Financial support for technology innovation and R&D for SMEs. | Continuous | [Apply here](https://nrc.canada.ca/en/support-technology-innovation) |
 | **Innovative Solutions Canada** | Funding for early-stage R&D and late-stage prototypes for government "challenges." | Varies by Challenge | [Apply here](https://www.ic.gc.ca/eic/site/101.nsf/eng/home) |
 | **CanExport Innovation** | Funding for R&D collaborations with foreign partners to reach global markets. | Continuous | [Apply here](https://www.tradecommissioner.gc.ca/funding-financement/canexport/innovation/index.aspx) |
 | **PacifiCan (BC Specific)** | Funding for tech adoption and business scaling in British Columbia. | Periodic Intakes | [Apply here](https://www.canada.ca/en/pacific-economic-development.html) |
-| **Business Benefits Finder** | Centralized tool to match specific tech projects with active federal/provincial grants. | Continuous | [Search here](https://innovation.ised-isde.canada.ca/iris/app/adventure/p/1/search) |
+| **Innovation Canada** | Innovation, Science and Economic Development Canada grants. | Continuous | [https://innovation.ised-isde.canada.ca/s/?language=en_CA) |
 | **Sustainable Development Tech (SDTC)** | Funding for "cleantech" and environmental technology projects. | Continuous | [Apply here](https://www.sdtc.ca/en/) |
 ---
+
+   
+
 
 ## 4. Conclusion
 If we do not fund the "plumbing" of the web, the future of AI will be a series of walled gardens. By pivoting toward infrastructure grants, Google can lead a movement where the "talent" is paid to build the highway, not just the toll booth. This ensures that the next generation of small businesses can leverage AI to grow, compete, and profit globally without a "cloud tax."
@@ -110,7 +111,7 @@ Navigating the grant landscape can be a full-time job and most web Developers do
 
 | Opportunity | Focus Area | Deadline | Link |
 | :--- | :--- | :--- | :--- |
-| **Google.org:| Google.org main entry point | **Continues** | [Apply here](https://www.google.org/impact-challenges/) |
+| **Google.org: Google.org main entry point | **Continues** | [Apply here](https://www.google.org/impact-challenges/) |
 | **Google.org: AI for Science** | $30M fund for Health and Climate research using AI. Open-source mandate. | **April 17, 2026** | [Apply here](https://google.org/impact-challenges/ai-science) |
 | **Google.org: AI for Gov** | Grants up to $3M for solving public service challenges with data-driven AI. | **April 3, 2026** | [Apply here](https://google.org/impact-challenges/ai-government-innovation) |
 | **Google Summer of Code** | Paid contributor projects for students and beginners in open source. | **April 2, 2026** | [Apply here](https://summerofcode.withgoogle.com/) |
